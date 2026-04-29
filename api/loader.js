@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-    const url = "https://raw.githubusercontent.com/FayintExploit/Copyavatar.lua/refs/heads/main/Main.luau";
+    const url = "https://pastefy.app/Zxx0xW3P/raw";
 
     try {
         const response = await fetch(url);
